@@ -58,3 +58,9 @@ p {
   
 }
 
+@media (max-width: 600px) {
+  img.image-spacing {
+    display: none;
+  }
+  
+}
